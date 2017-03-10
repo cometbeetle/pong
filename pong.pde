@@ -1,3 +1,6 @@
+//Ethan Mentzer/cometbeetle
+//Project 3
+
 import processing.sound.*; //Use sound library
 SoundFile beepSound;
 SoundFile frewSound;
